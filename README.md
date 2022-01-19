@@ -1,2 +1,2 @@
 # MyApp
-This is a trial.
+Trying out Git for the first time.
